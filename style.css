@@ -22,19 +22,19 @@ body {
   background-size: contain;
 }
 .parallax-layer__1 {
-  background-image: url(/dist/img/1.jpg);
+  background-image: url(img/1.jpg);
  background-size: cover;
   left: -30px;
 }
 .parallax-layer__2 {
-  background-image: url(/dist/img/layer-2.png);
+  background-image: url(img/layer-2.png);
 }
 .parallax-layer__3 {
-  background-image: url(/dist/img/layer-4.png);
+  background-image: url(img/layer-4.png);
 }
 
 .parallax-layer__4 {
-  background-image: url(/dist/img/layer-3.png);
+  background-image: url(img/layer-3.png);
   top: -80px;
   left: -350px;
   z-index: 9;
